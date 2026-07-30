@@ -41,10 +41,6 @@ Goal: ............ build useful projects and document progress
 
 ---
 
-<div align="center">
-
----
-
 ## Featured Projects
 
 - **Project 1:** Short description of your best project.
