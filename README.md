@@ -43,8 +43,6 @@ Goal: ............ build useful projects and document progress
 
 <div align="center">
 
-</div>
-
 ---
 
 ## Featured Projects
