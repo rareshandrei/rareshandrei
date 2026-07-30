@@ -4,7 +4,7 @@
 
 <!-- TERMINAL:START -->
 ```yaml
-rareshandrei@github ~ -------------------------------------------------
+rareshandrei@github - ________________________________________________
 
 OS: ..................... Windows 
 Role: ................... Computer Science Student
@@ -22,7 +22,7 @@ Contact.LinkedIn: ....... https://www.linkedin.com/in/rares-macovei-161ba4414/
 
 Goal: ............ build useful projects and document progress
 
------------------------------------------------------------------
+_______________________________________________________________________
 ```
 <!-- TERMINAL:END -->
 
