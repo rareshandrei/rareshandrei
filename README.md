@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Raresh 
+# Hi, I'm Raresh Andrei
 
 <!-- TERMINAL:START -->
 ```yaml
