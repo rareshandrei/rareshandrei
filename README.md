@@ -6,21 +6,20 @@
 ```yaml
 rareshandrei@github ~ -------------------------------------------------
 
-OS: ..................... Windows / Linux
-Role: ................... Computer Science Student
-Focus: .................. AI, Software Engineering, Cybersecurity
-Currently.Learning: ..... Java, AI Software Development
-IDE: .................... VS Code
+OS:                   Windows / Linux
+Role:                 Computer Science Student
+Focus:                AI, Software Engineering
+Currently Learning:   Java, AI Software Development
+IDE:                  VS Code
 
-Languages.Programming: . Java
-Tools: .................. Git, GitHub, Claude Code
+Languages:            Java
+Tools:                Git, GitHub, Claude Code, Oracle VirtualBox 
 
-Interests.Software: ..... AI tools, Cybersecurity
-Interests.Business: ..... startups, entrepreneurship, personal brand
+Interests:            AI, Cybersecurity
+Business:             Startups, Entrepreneurship
 
-Contact.LinkedIn: ....... https://www.linkedin.com/in/rares-macovei-161ba4414/
-
-Goal: ............ build useful projects and document progress
+LinkedIn:             https://www.linkedin.com/in/rares-macovei-161ba4414/
+Goal:                 Build useful projects
 
 -----------------------------------------------------------------
 ```
