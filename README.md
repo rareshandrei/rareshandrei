@@ -8,11 +8,11 @@ rareshandrei@github ~ -------------------------------------------------
 
 OS: ..................... Windows / Linux
 Role: ................... Computer Science Student
-Focus: .................. AI, Software Engineering, CyberSecurity
+Focus: .................. AI, Software Engineering, Cybersecurity
 Currently.Learning: ..... Java, AI Software Development
 IDE: .................... VS Code
 
-Languages.Programming: . Java, PostgreSQL
+Languages.Programming: . Java
 Tools: .................. Git, GitHub, Claude Code
 
 Interests.Software: ..... AI tools, Cybersecurity
