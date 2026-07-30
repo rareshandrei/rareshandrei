@@ -21,6 +21,7 @@ Interests.Business: ..... startups, entrepreneurship, personal brand
 Contact.LinkedIn: ....... https://www.linkedin.com/in/rares-macovei-161ba4414/
 
 Goal: ............ build useful projects and document progress
+
 -----------------------------------------------------------------
 ```
 <!-- TERMINAL:END -->
