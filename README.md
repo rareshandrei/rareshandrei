@@ -46,9 +46,7 @@ _______________________________________________________________________
 
 ## Featured Projects
 
-- **Project 1:** Short description of your best project.
-- **Project 2:** Short description of another strong project.
-- **Project 3:** Short description of a university, AI, or web project.
+-
 
 ---
 
