@@ -6,7 +6,7 @@
 ```yaml
 rareshandrei@github - ________________________________________________
 
-OS: ..................... Windows 
+OS: ..................... Windows, Linux
 Role: ................... Computer Science Student
 Focus: .................. AI Software Development, Cybersecurity, Design
 Currently.Learning: ..... Python, AI Software Development
