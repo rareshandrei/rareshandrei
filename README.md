@@ -9,10 +9,10 @@ rareshandrei@github - ________________________________________________
 OS: ..................... Windows 
 Role: ................... Computer Science Student
 Focus: .................. AI Software Development, Cybersecurity, Design
-Currently.Learning: ..... Java, AI Software Development
+Currently.Learning: ..... Python, AI Software Development
 IDE: .................... VS Code
 
-Languages.Programming: . Java 
+Languages.Programming: . Python
 Tools: .................. Git, GitHub, Claude Code, Oracle VirtualBox
 
 Interests.Software: ..... AI tools, Cybersecurity, Design 
