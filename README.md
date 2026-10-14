@@ -34,7 +34,9 @@ _______________________________________________________________________
 
 ## Tech Stack
 
-<img src="https://img.shields.io/pypi/pyversions/:packageName" />
+<img src="(https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)" /> 
+<img src="(https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)" /> 
+<img src="(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rares-macovei-161ba4414/?isSelfProfile=true)" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
